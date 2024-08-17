@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="tr-TR">
+<head>
+	<meta charset="UTF-8">
+	<script>
+		document.querySelector("html").dataset.theme = `theme-light`;
+	</script>
+
+	<link rel="stylesheet" href="https://inceptionrpg.com/forum/Themes/Honest/css/Semantic/semantic.css" crossorigin="anonymous" />
+	
+	
+	<link rel="stylesheet" href="https://inceptionrpg.com/forum/Themes/Honest/css/minified_c403126efe39e8cd286d2b6165fd1f15.css?smf21rc3_1690663244">
+	<style>
+	img.avatar { max-width: 120px; max-height: 120px; }
+	
+	</style>
+	<script src="https://apis.google.com/js/platform.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://inceptionrpg.com/forum/Themes/Honest/css/jquery.sceditor.css">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="https://inceptionrpg.com/forum/Themes/Honest/images/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://inceptionrpg.com/forum/Themes/Honest/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://inceptionrpg.com/forum/Themes/Honest/images/favicon/favicon-16x16.png">
+	<link rel="manifest" href="https://inceptionrpg.com/forum/Themes/Honest/images/favicon/site.webmanifest">
+	<link rel="mask-icon" href="https://inceptionrpg.com/forum/Themes/Honest/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#000000">
+	<meta name="theme-color" content="#000000">
+
+	<meta name="title" content="Inception Roleplay">
+	<meta name="description" content="Türkiye'nin en iyi MTA:SA tabanlı roleplay sunucusuna sen de katılmak istemez misin? Rol yapmak hiç bu kadar keyifli olmamıştı.">
+	<meta name="keywords" content="roleplay, role play, mta sa, mtasa rp, samp roleplay, sa-mp roleplay, mta roleplay, rol oyunu, ">
+	<meta name="robots" content="index, follow">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="author" content="cleopatradev">
+	
+	<script>
+		var smf_theme_url = "https://inceptionrpg.com/forum/Themes/Honest";
+		var smf_default_theme_url = "https://inceptionrpg.com/forum/Themes/default";
+		var smf_images_url = "https://inceptionrpg.com/forum/Themes/Honest/images";
+		var smf_smileys_url = "https://inceptionrpg.com/forum/Smileys";
+		var smf_smiley_sets = "fugue,alienine";
+		var smf_smiley_sets_default = "fugue";
+		var smf_scripturl = "https://inceptionrpg.com/forum/index.php";
+		var smf_iso_case_folding = false;
+		var smf_charset = "UTF-8";
+		var smf_session_id = "5463dcd22b516bf9220af5554e952ad0";
+		var smf_session_var = "f60a37b79168";
+		var smf_member_id;
+		var ajax_notification_text = 'Yükleniyor...';
+		var help_popup_heading_text = 'Kayboldunuz? Açıklamayım:';
+		var banned_text = 'Üzgünüz Ziyaretçi, bu forum\'dan yasaklandınız!.';
+		var smf_txt_expand = 'Genişlet';
+		var smf_txt_shrink = 'Küçült';
+		var smf_quote_expand = false;
+	</script>
+	<script src="https://inceptionrpg.com/forum/Themes/default/scripts/jquery-3.5.1.min.js"></script>
+	<script src="https://inceptionrpg.com/forum/Themes/Honest/scripts/minified_0799049c8358c8422647ab93a6b71e53.js?smf21rc3_1690663244"></script>
+	<script>
+	var smf_you_sure ='Bunu yapmak istediğinize emin misiniz?';
+	</script>
+	<title>Üyelik Sözleşmesi</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://inceptionrpg.com/forum/Themes/Honest/css/Semantic/semantic.js"></script>
+	<meta property="og:site_name" content="Inception Role Play">
+	<meta property="og:title" content="Üyelik Sözleşmesi">
+	<meta property="og:description" content="Üyelik Sözleşmesi">
+	<meta name="description" content="Üyelik Sözleşmesi">
+	<meta name="theme-color" content="#557EA0">
+	<link rel="help" href="https://inceptionrpg.com/forum/index.php?action=help">
+	<link rel="contents" href="https://inceptionrpg.com/forum/index.php">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+	
+	<link rel="alternate" type="application/rss+xml" title="Inception Role Play - RSS" href="https://inceptionrpg.com/forum/index.php?action=.xml;type=rss2">
+	<link rel="alternate" type="application/atom+xml" title="Inception Role Play - Atom" href="https://inceptionrpg.com/forum/index.php?action=.xml;type=atom"><style>.vv_special { display:none; }</style>
+</head>
+<body id="smf" class="action_signup">
+<div id="footerfix">
+		<div id="social-links">
+			<div id="padding-wrapper">
+				<div id="icons">
+					<a href="https://facebook.com/inceptionroleplay" target="_blank"><i class="fab fa-facebook-f"></i></a>
+					<a href="https://discord.gg/P6awx9y8dR" target="_blank"><i class="fab fa-discord"></i></a>
+					<a href="https://www.youtube.com/inceptionmedya" target="_blank"><i class="fab fa-youtube"></i></a>
+					<a href="https://instagram.com/inceptionroleplay" target="_blank"><i class="fab fa-instagram"></i></a>
+					<a href="https://github.com/inceptionnet" target="_blank"><i class="fab fa-github"></i></a>
+				</div>
+				<div id="nav-profile">
+				
+							<ul class="floatleft welcome">
+								<li>Hoş geldin, Ziyaretçi. Lütfen <a href="https://inceptionrpg.com/forum/index.php?action=login">giriş yapın.</a></li>
+							</ul>
+				</div>
+			</div>
+		</div>
+	
+	<div id="nav-banner">
+		<a class="logo" href="https://inceptionrpg.com/forum/index.php">
+			<img width="128" height="128" id="forum_logo">
+		</a>
+	</div>
+	
+	<div id="top_section">
+		<div class="inner_wrap" id="navbar_section"><div class="ui secondary horizontal menu"><a class="active item" href="https://inceptionrpg.com/forum/index.php">Ana Sayfa</a><a class="item" href="https://inceptionrpg.com/forum/panel/">UCP</a><div class="ui inline dropdown item"><i class="dropdown icon" style="margin: 0em 0.35714286em 0em 0em;"></i>Market<div class="menu"><div class="header">Market</div><a class="item" href="https://inceptionrpg.com/market">
+						Bakiye Yükle
+					</a></div></div><a class="item" href="https://inceptionrpg.gitbook.io/wiki/">Wiki</a><a class="item" href="https://inceptionrpg.com/forum/index.php?action=signup">Kayıt Ol</a></div><script> 
+     $(document).ready(function(){
+          $(".ui.dropdown").dropdown();
+    });
+    </script>
+		</div><!-- .inner_wrap -->
+	</div><!-- #top_section -->
+	<div id="header">
+		
+	</div>
+	<div id="wrapper">
+		<div id="upper_section">
+			<div id="inner_section">
+				<div id="inner_wrap">
+				<a class="menu_icon mobile_user_menu"></a>
+				<div id="main_menu">
+					<div id="mobile_user_menu" class="popup_container">
+						<div class="popup_window description">
+							<div class="popup_heading">Mobil Ana Menü
+								<a href="javascript:void(0);" class="main_icons hide_popup"></a>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+				<div class="navigate_section">
+					<ul>
+		<li> <i class="fas fa-home"></i> <span class="divider">/</span></li>
+	
+						<li>
+							<a href="https://inceptionrpg.com/forum/index.php"><span>Inception Role Play</span></a>
+						</li>
+						<li class="last">
+			<span class="divider">/</span>
+							<a href="https://inceptionrpg.com/forum/index.php?action=signup"><span>Kayıt Ol</span></a>
+						</li>
+					</ul>
+				</div><!-- .navigate_section -->
+			</div><!-- #inner_section -->
+		</div><!-- #upper_section -->
+		<div id="content_section">
+			<div id="main_content_section">
+		<form action="https://inceptionrpg.com/forum/index.php?action=signup" method="post" accept-charset="UTF-8" id="registration">
+			<div class="cat_bar">
+				<h3 class="catbg cat_gradient">Üyelik Sözleşmesi</h3>
+			</div>
+			<div class="roundframe">
+				<div>Bu forumda kabul ettiğiniz koşullar çerçevesinde; kesinlikle cinsellik, yanlış, yanıltıcı, yasa dışı örgütlenme, kırıcı, kişisel gizlilik haklarını ihlal edici, uluslararası hukuka ve Türkiye Cumhuriyeti Yasaları'na aykırı içeriği olan iletiler gönderemezsiniz. Bunun yanı sıra, telif hakkı içeren dosya vb. materyalleri de paylaşamazsınız. Spam, flood, reklam, zincirleme mektup, grup pazarlama ve taciz kesinlikle yasaktır.<br><br>Bilmelisiniz ki bu forumun sahibinin veya yöneticilerinin, gönderilen içeriğin geçerliliğini kontrol edip onaylamaları imkansızdır. Lütfen şunu unutmayın; bizler atılan her iletiyi anında görüntüleyemeyiz ve iletilerin içeriği bizim sorumluluğumuzda değildir. Paylaşılmış/verilmiş bilgilerin hiçbirinin yararlı veya bütünleyici olduğunu garanti edemeyiz. Gönderilen iletiler yalnızca yazarın görüşlerini belirtir; forumun, forum ekibinin, ortaklarının veya forumun sahibinin görüşlerini değil. Eğer gönderilmiş bir iletinin sakıncalı olduğunu düşünüyorsanız, durumu derhal bir yöneticiye veya moderatöre bildiriniz. Forumun sahipleri ve forum ekibi, makul bir zaman çerçevesi içerisinde, sakıncalı olarak nitelendirilen içeriğin kaldırılmasına yönelik bir karar alma hakkına sahiptir. Bu tümüyle manuel olarak yürütülen bir süreç olduğundan dolayı lütfen iletilerin anında kaldırılmasının veya kısmen düzenlenmesinin mümkün olamayabileceğini unutmayın. Bunlar, üyelerin profil bilgileri için de geçerlidir.<br><br>Yazmış olduğunuz mesajlardan şahsınız sorumlu tutulacaktır. Ayrıca, bu forumu, forumla bağlantılı diğer web siteleri, forum ekibini ve ortaklarını zarara uğratmamayı ve oluşabilecek zararlardan korumayı kabul etmiş sayılırsınız. Bu forumun sahipleri, forumu kullanış tarzınızın neden olduğu bir durumdan dolayı resmi bir şikâyet alırsa veya yasal işlemler bunu gerektirirse, kimliğinizi (ek olarak, bu hizmeti kullanırken hakkınızda toplanmış olan diğer bilgilerinizi) açıklama haklarını saklı tutar.<br><br>Kayıt esnasında size kullanıcı adı seçme özgürlüğü verilmektedir. Tavsiyemiz, isminizin size özgü ve etik olarak uygun olmasıdır. Kayıt etmek üzere olduğunuz kullanıcı hesabınızın parolasını gerektiğinde güvenlik ve doğrulama nedeniyle bir yönetici istisna olmak üzere hiç kimseye vermemeyi kabul etmiş sayılıyorsunuz. Bununla birlikte, başka bir kullanıcının hesabını ASLA kullanmamayı da kabul etmiş sayılıyorsunuz. &nbsp;Hesabınızın güvenliği için önerimiz, karmaşık ve eşsiz parolalar kullanmanızdır.<br><br>Kayıt olup parolanızla giriş yaptıktan sonra ayrıntılı olarak bilgilerinizi girebilme imkanına sahip olabileceksiniz. Düzgün ve tutarlı bilgiler vermek, sizin sorumluluğunuzdadır. Forum yöneticileri verdiğiniz bilgilerde bir tutarsızlık veya etiğe aykırı bir durum tespit ederse, gerek uyararak gerekse uyarmaksızın bunları gidermek için bilgilerinizi düzenleyebilirler. Bu durumda bazı yaptırımlar uygulanabilir.<br><br>Bilmelisiniz ki gönderdiğiniz her iletiyle birlikte IP adresiniz kayıt altına alınmaktadır. Bu bilgi, foruma girişinizin engellenmesi gerekirse veya internet bağlantı sağlayıcınız (ISP) ile irtibat kurmak için kullanılabilir. Bu durum bu anlaşmanın önemli bir parçasını ihlâl etmeniz halinde oluşabilir.<br><br>Not: Forum yazılımı, tarayıcınızın önbelleğine, kullanıcı adınız ve parolanız gibi hakkınızdaki küçük bilgileri içeren çerez adında bir metin belgesi kaydeder. Bu bilgiler, SADECE foruma girişiniz için ve forumdan güvenli çıkışınız için kullanılır. Yazılım, bilgisayarınızdan, sözü edilen bu bilgiden başka hiçbir formatta veri almaz ve bilgisayarınıza bir veri göndermez.<br><br>Ek olarak Inception Roleplay ve platformlarında oynayabilmeniz için en az 15 yaşında olmanız gerekmektedir. Aynı şekilde Inception Roleplay kişisel verilerinizi koruma hakkını saklı tutar, üçüncü herhangi bir tarafla veya kişiyle asla paylaşmaz. Verilerinizi işlemez veya dağıtmaz, şifrelenmiş şekilde veritabanında saklı kalır.</div>
+			</div>
+			<div id="confirm_buttons">
+				<input type="submit" name="accept_agreement" value="Üyelik sözleşmesinin koşullarını kabul ediyorum." class="button" />
+				<input type="hidden" name="f60a37b79168" value="5463dcd22b516bf9220af5554e952ad0">
+				<input type="hidden" name="c5e2ee513e7b" value="4bc114d291ed634bea150defeab4b40f">
+				<input type="hidden" name="step" value="1">
+			</div>
+		</form>
+			<script>
+				var verificationregisterHandle = new smfCaptcha("https://inceptionrpg.com/forum/index.php?action=verificationcode;vid=register;rand=f52bc4c2091fab04b8b411de9f4ad709", "register", 1);
+			</script>
+			</div><!-- #main_content_section -->
+		</div><!-- #content_section -->
+	</div><!-- #wrapper -->
+</div><!-- #footerfix -->
+	<div id="footer">
+		<div class="inner_wrap" id="footer_wrap">
+		<ul style="text-align: center; padding-bottom: 1rem;">
+			<li>© 2010 - 2022 Inception, Sitede yer alan tüm içerikler hayal ürününden ibarettir.<br> <i class="fas fa-palette"></i> & <i class="fas fa-code"></i> <a href="https://github.com/fresholia" target="_blank">cleopatra</a> </li>
+			<li class=""><a href="https://inceptionrpg.com/forum/index.php?action=help">Yardım</a> | <a href="https://inceptionrpg.com/forum/index.php?action=agreement">Şartlar ve Kurallar</a> | <a href="#top_section">Yukarı git &#9650;</a></li>
+	
+		</ul>
+		</div>
+	</div><!-- #footer -->
+<script>
+window.addEventListener("DOMContentLoaded", function() {
+	function triggerCron()
+	{
+		$.get('https://inceptionrpg.com/forum' + "/cron.php?ts=1711494765");
+	}
+	window.setTimeout(triggerCron, 1);
+});
+</script>
+</body>
+</html>
